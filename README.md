@@ -2,11 +2,11 @@
  The following flies show my progress in CAD. 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [Building A Skateboard](#2.1-2.5_Building_A_Skateboard)
-* [One Brick to Rule Them All](#3.1-3.4_One_Brick_to_Rule_Them_All)
+* [Building A Skateboard](#Building_A_Skateboard)
+* [One Brick to Rule Them All](#One_Brick_to_Rule_Them_All)
 ---
 
-## 2.1-2.5 Building A Skateboard
+## Building_A_Skateboard
 
 ### Description & Images
 This skateboard has many parts and have little parts and little details that you had to make sure were the right size and weight.
@@ -19,7 +19,7 @@ The Skateboard had diferent segments that you had to use to make the skateboard 
 ### Evidence
 https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=6171682d74285962889086e9
 
-## 3.1-3.4 One Brick to Rule Them All
+## One_Brick_To_Rule_Them_All
 
 ### Description & Images
 This assignment was interesting and will be really useful in the future as I learned how to use variables and graphs to change the brick.
