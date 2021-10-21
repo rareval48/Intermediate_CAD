@@ -2,13 +2,13 @@
  The following flies show my progress in CAD. 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [2.1-2.5 Building A Skateboard](#2.1-2.5 Building A Skateboard)
-* [3.1-3.4 One Brick to Rule Them All](#3.1-3.4 One Brick to Rule Them All)
+* [Building A Skateboard](#2.1-2.5_Building_A_Skateboard)
+* [One Brick to Rule Them All](#3.1-3.4_One_Brick_to_Rule_Them_All)
 ---
 
 ## 2.1-2.5 Building A Skateboard
 
-### Description and Images
+### Description & Images
 This skateboard has many parts and have little parts and little details that you had to make sure were the right size and weight.
 
 <img src="https://user-images.githubusercontent.com/71342195/138284141-09e13126-1f95-460a-8726-3d39683ced28.png"> <img src="https://user-images.githubusercontent.com/71342195/138284013-de2dab76-2549-4a1c-acbc-b02f35a46f02.png">         <img src="https://user-images.githubusercontent.com/71342195/138283824-b6c2d7a6-0c88-4413-b212-28cbb7ad821e.png">
@@ -21,7 +21,7 @@ https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae
 
 ## 3.1-3.4 One Brick to Rule Them All
 
-### Description and Images
+### Description & Images
 This assignment was interesting and will be really useful in the future as I learned how to use variables and graphs to change the brick.
 
 <img src="https://user-images.githubusercontent.com/71342195/138289143-c76eb2ef-cb34-4f4a-907d-38d5d237de31.png"> <img src="https://user-images.githubusercontent.com/71342195/138289448-4bc8b72f-717e-4845-8661-14251ca37e29.png"> <img src="https://user-images.githubusercontent.com/71342195/138289561-a2604c6d-7a5d-44d8-be02-d8a956e8541b.png">
