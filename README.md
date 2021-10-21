@@ -2,6 +2,8 @@
  The following flies show my progress in CAD. 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
+* [2.1-2.5 Building A Skateboard](#2.1-2.5 Building A Skateboard)
+* [3.1-3.4 One Brick to Rule Them All](#3.1-3.4 One Brick to Rule Them All)
 ---
 
 ## 2.1-2.5 Building A Skateboard
@@ -17,7 +19,7 @@ The Skateboard had diferent segments that you had to use to make the skateboard 
 ### Evidence
 https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=6171682d74285962889086e9
 
-## 2.1-2.5 One Brick to Rule Them All
+## 3.1-3.4 One Brick to Rule Them All
 
 ### Description and Images
 This assignment was interesting and will be really useful in the future as I learned how to use variables and graphs to change the brick.
