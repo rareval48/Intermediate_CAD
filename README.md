@@ -1,5 +1,6 @@
 # Intermediate_CAD
- The following flies show my progress in CAD. 
+The follwing files are my first foray into CAD.
+
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Building A Skateboard](#Building_A_Skateboard)
