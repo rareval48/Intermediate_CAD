@@ -15,7 +15,7 @@ This skateboard deck was easy to build as it was just rectangle and circle sketc
 <img src="https://user-images.githubusercontent.com/71342195/138284141-09e13126-1f95-460a-8726-3d39683ced28.png">
 
 ### Reflection
-I learned you can connect both circle sketches to lines so when they are moved they are always connected. It only took a couple of minutes to make as it was really easy.
+I learned you can connect both circle sketches to lines so when they are moved they are always connected. It only took a couple of minutes to make as it was really easy. Making the board was really simple when you follow instructions. I would say the hardest thing about this would be putting the screw holes in the right place as you had to make sure that they re correctly dimensioned. 
 
 ### Evidence
 https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=6171682d74285962889086e9
