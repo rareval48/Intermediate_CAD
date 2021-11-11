@@ -22,7 +22,7 @@ This skateboard deck was easy to build as it was just rectangle and circle sketc
 I learned you can connect both circle sketches to lines so when they are moved they are always connected. It only took a couple of minutes to make as it was really easy. Making the board was really simple when you follow instructions. I would say the hardest thing about this would be putting the screw holes in the right place as you had to make sure that they re correctly dimensioned. 
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=6171682d74285962889086e9
+[Skateboard and Trucks](https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/b7dfc4762705cb0a55bb1369?renderMode=0&uiState=618d2c709ccafa52b287e153)
 
 ## Designing_The_Trucks
 
@@ -36,7 +36,7 @@ Here is the end truck result.
 The trucks had to be made a certain way for there to have a small ring in the middle to help strenghthen it. I had to remake the truck, because the first time that I tried to make it I sketched on the wrong face and it didnt work once I started to make the second part of the trucks.
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=6171682d74285962889086e9
+[Skateboard and Trucks](https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/b7dfc4762705cb0a55bb1369?renderMode=0&uiState=618d2c709ccafa52b287e153)
 
 ## Wheels_and_Bearings
 
@@ -50,7 +50,7 @@ Here is the end product
 The wheels and bearings were the easiest parts to make in this project althought I had a problem with the size of the bearing and it interfeering with the sides of the wheel. Once I fixed that, it went pretty smoothly after and from there I moved onto the next part of the project.
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=6171682d74285962889086e9
+[Wheels and Bearing](https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=618d2ca09ccafa52b287e1f6)
 
 ## Putting_It_All_Together
 
@@ -65,7 +65,7 @@ Here is the final product
 The Skateboard had diferent segments that you had to use to make the skateboard funcion. It was pretty easy and fun to customise and add your own colors and logos. First, you had to make the board, then the trucks, the wheels and bearings, and then you had to put it all together in an assembly. There are also more additions you can do to the skateboard like bending the board, making the trucks more realistic, changing the shape of the board, and adding a logo. :neckbeard:      
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=6171682d74285962889086e9
+[Skateboard Final Product](https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/e0e4dd3bed10ec7ad9d056a8?renderMode=0&uiState=618d2ccd9ccafa52b287e2eb)
 
 ## One_Brick_To_Rule_Them_All
 
@@ -78,7 +78,7 @@ This assignment is making legos and  building a duck. There were little things t
 The Brick That Rules Them All is on of the most interesting assignments I have done so far. There are many things that I havent used that I had to use to complete this assignment. There are in total 54 different legos that can be made from the three different settings to make a brick with. Those include size, color, and block type. Using variables and graphs really made this easier as I didnt have to make seperate legos for a single assembly. 
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/038036528d6c0d3f769d595d/w/611951383d0b59f1f107869b/e/76be1de5faf69105580037ba?configuration=List_DAQE53WP9rq7Gs%3DDefault%3BList_NRkoUmQUxtTsQ2%3DDefault%3BList_ev0W4QS2oXXnxS%3DYellow&renderMode=0&uiState=61716faaf4f70a5e69ad91d5
+[Brick Final Product](https://cvilleschools.onshape.com/documents/038036528d6c0d3f769d595d/w/611951383d0b59f1f107869b/e/76be1de5faf69105580037ba?configuration=List_DAQE53WP9rq7Gs%3DDefault%3BList_NRkoUmQUxtTsQ2%3DDefault%3BList_ev0W4QS2oXXnxS%3DYellow&renderMode=0&uiState=618d2d126ffe974e2dbcd592)
 
 ## Multi_Tool
 
@@ -91,4 +91,4 @@ This is the end result of the the Multi-Tool
 The Multi Tool was really easy to make as I have used all of the functions that I needed to make this product. One thing I learned from this project was from uploading it to Google. When I uploaded it the lines that were curved would dissapear, but when you put the sketch onto a dfx reader then they would show back up. So in the future I learned not to worry when that happens again. 
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/9d8a8a3bf5d4a4f2388b2f03/w/e1927ba5fe9f72df00ac49ed/e/f4e23e5f2c07ef2ca4d4cb8a?renderMode=0&uiState=618d281a9ccafa52b287c9ed
+[Multi-Tool Final Product](https://cvilleschools.onshape.com/documents/9d8a8a3bf5d4a4f2388b2f03/w/e1927ba5fe9f72df00ac49ed/e/f4e23e5f2c07ef2ca4d4cb8a?renderMode=0&uiState=618d281a9ccafa52b287c9ed)
