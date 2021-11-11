@@ -3,12 +3,12 @@ The follwing files are my first foray into CAD.
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [2.1 Designing The Deck](#2.1_Designing_The_Deck)
-* [2.2 Designing The Trucks](#2.2_Designing_The_Trucks)
-* [2.3 Wheels and Bearings](#2.3_Wheels_and_Bearings)
-* [2.4 Putting It All Together](#2.4_Putting_It_All_Together)
+* [Designing The Deck](#Designing_The_Deck)
+* [Designing The Trucks](#Designing_The_Trucks)
+* [Wheels and Bearings](#Wheels_and_Bearings)
+* [Putting It All Together](#Putting_It_All_Together)
 * [One Brick to Rule Them All](#One_Brick_to_Rule_Them_All)
-* [Multi-Tool](#Multi_Tool)
+* [Multi Tool](#Multi_Tool)
 ---
 
 ## 2.1_Designing_The_Deck
@@ -80,7 +80,7 @@ The Brick That Rules Them All is on of the most interesting assignments I have d
 ### Evidence
 https://cvilleschools.onshape.com/documents/038036528d6c0d3f769d595d/w/611951383d0b59f1f107869b/e/76be1de5faf69105580037ba?configuration=List_DAQE53WP9rq7Gs%3DDefault%3BList_NRkoUmQUxtTsQ2%3DDefault%3BList_ev0W4QS2oXXnxS%3DYellow&renderMode=0&uiState=61716faaf4f70a5e69ad91d5
 
-## Multi-Tool
+## Multi Tool
 
 ### Description & Images
 This is the end result of the the Multi-Tool
