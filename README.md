@@ -3,12 +3,15 @@ The follwing files are my first foray into CAD.
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [Building A Skateboard](#Building_A_Skateboard)
+* [2.1 Designing The Deck](#2.1_Designing_The_Deck)
+* [2.2 Designing the Trucks](#2.2_Designing_The_Trucks)
+* [2.3_Wheels_and_Bearings](#2.3_Wheels_and_Bearings)
+* [2.4_Putting_It_All_Together](#2.4_Putting_It_All_Together)
 * [One Brick to Rule Them All](#One_Brick_to_Rule_Them_All)
-* [Multi-Tool 1-3](#Multi_Tool_1-3)
+* [Multi-Tool](#Multi_Tool)
 ---
 
-## 2.1 Designing The Deck
+## 2.1_Designing_The_Deck
 
 ### Description & Images
 This skateboard deck was easy to build as it was just rectangle and circle sketches. 
@@ -21,7 +24,7 @@ I learned you can connect both circle sketches to lines so when they are moved t
 ### Evidence
 https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=6171682d74285962889086e9
 
-## 2.2 Designing the Trucks
+## 2.2_Designing_The_Trucks
 
 
 ### Description and Images 
@@ -35,7 +38,7 @@ The trucks had to be made a certain way for there to have a small ring in the mi
 ### Evidence
 https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=6171682d74285962889086e9
 
-## 2.3 Wheels and Bearings
+## 2.3_Wheels_and_Bearings
 
 ### Description and Images
 Here is the end product
@@ -49,7 +52,7 @@ The wheels and bearings were the easiest parts to make in this project althought
 ### Evidence
 https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=6171682d74285962889086e9
 
-## 2.4 Putting It All Together
+## 2.4_Putting_It_All_Together
 
 ### Description and Images
 Here is the final product
@@ -77,7 +80,7 @@ The Brick That Rules Them All is on of the most interesting assignments I have d
 ### Evidence
 https://cvilleschools.onshape.com/documents/038036528d6c0d3f769d595d/w/611951383d0b59f1f107869b/e/76be1de5faf69105580037ba?configuration=List_DAQE53WP9rq7Gs%3DDefault%3BList_NRkoUmQUxtTsQ2%3DDefault%3BList_ev0W4QS2oXXnxS%3DYellow&renderMode=0&uiState=61716faaf4f70a5e69ad91d5
 
-## Multi-Tool_1-3
+## Multi-Tool
 
 ### Description & Images
 This is the end result of the the Multi-Tool
