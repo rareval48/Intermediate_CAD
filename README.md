@@ -4,9 +4,9 @@ The follwing files are my first foray into CAD.
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [2.1 Designing The Deck](#2.1_Designing_The_Deck)
-* [2.2 Designing the Trucks](#2.2_Designing_The_Trucks)
-* [2.3_Wheels_and_Bearings](#2.3_Wheels_and_Bearings)
-* [2.4_Putting_It_All_Together](#2.4_Putting_It_All_Together)
+* [2.2 Designing The Trucks](#2.2_Designing_The_Trucks)
+* [2.3 Wheels and Bearings](#2.3_Wheels_and_Bearings)
+* [2.4 Putting It All Together](#2.4_Putting_It_All_Together)
 * [One Brick to Rule Them All](#One_Brick_to_Rule_Them_All)
 * [Multi-Tool](#Multi_Tool)
 ---
