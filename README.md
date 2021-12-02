@@ -19,7 +19,7 @@ This skateboard deck was easy to build as it was just rectangle and circle sketc
 <img src="https://user-images.githubusercontent.com/71342195/138284141-09e13126-1f95-460a-8726-3d39683ced28.png">
 
 ### Reflection
-I learned you can connect both circle sketches to lines so when they are moved they are always connected. It only took a couple of minutes to make as it was really easy. Making the board was really simple when you follow instructions. I would say the hardest thing about this would be putting the screw holes in the right place as you had to make sure that they re correctly dimensioned. 
+I learned you can connect both circle sketches to lines so when they are moved they are always connected. It only took a couple of minutes to make as it was really easy. Making the board was really simple when you follow instructions. I would say the hardest thing about this would be putting the screw holes in the right place as you had to make sure that they are correctly dimensioned. 
 
 ### Evidence
 [Skateboard and Trucks](https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/b7dfc4762705cb0a55bb1369?renderMode=0&uiState=618d2c709ccafa52b287e153)
@@ -33,7 +33,7 @@ Here is the end truck result.
 <img src="https://user-images.githubusercontent.com/71342195/138284013-de2dab76-2549-4a1c-acbc-b02f35a46f02.png" width="400px">
 
 ### Reflection
-The trucks had to be made a certain way for there to have a small ring in the middle to help strenghthen it. I had to remake the truck, because the first time that I tried to make it I sketched on the wrong face and it didnt work once I started to make the second part of the trucks.
+The trucks had to be made a certain way for there to have a small ring in the middle to help strenghthen it. I had to remake the truck, because the first time that I tried to make it, I sketched on the wrong face and it didnt work once I started to make the second part of the trucks.
 
 ### Evidence
 [Skateboard and Trucks](https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/b7dfc4762705cb0a55bb1369?renderMode=0&uiState=618d2c709ccafa52b287e153)
@@ -47,7 +47,7 @@ Here is the end product
 
 
 ### Reflection 
-The wheels and bearings were the easiest parts to make in this project althought I had a problem with the size of the bearing and it interfeering with the sides of the wheel. Once I fixed that, it went pretty smoothly after and from there I moved onto the next part of the project.
+The wheels and bearings were the easiest parts to make in this project althought I had a problem with the size of the bearing and it interfering with the sides of the wheel. To fix it I had to change the diameter and make it smaller for the sides of the bearing up against the wheel not on it. Once I fixed that, it went pretty smoothly after and from there I moved onto the next part of the project.
 
 ### Evidence
 [Wheels and Bearing](https://cvilleschools.onshape.com/documents/7711f3ed98499335c3be4f00/w/97e62adae0b8b7b5650fe9e4/e/8c69a65483616eaa44eefb58?renderMode=0&uiState=618d2ca09ccafa52b287e1f6)
