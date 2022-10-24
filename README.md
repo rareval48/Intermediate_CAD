@@ -88,7 +88,7 @@ This is the end result of the the Multi-Tool
 <img src="https://user-images.githubusercontent.com/71342195/140953353-c5ccb055-6ff8-4a21-8a35-2b40bcd36bf5.png" width="400px"> <img src="https://user-images.githubusercontent.com/71342195/140955461-532de361-005b-47c5-8e20-910c096c7181.JPG" width="400px"> 
 
 ### Reflection
-The Multi Tool was really easy to make as I have used all of the functions that I needed to make this product. One thing I learned from this project was from uploading it to Google. When I uploaded it the lines that were curved would dissapear, but when you put the sketch onto a dfx reader then they would show back up. So in the future I learned not to worry when that happens again. 
+The Multi Tool was really easy to make as I have used all of the functions that I needed to make this product. One thing I learned from this project was from uploading it to Google. When I uploaded it the lines that were curved would disappear, but when you put the sketch onto a dfx reader then they would show back up. So in the future I learned not to worry when that happens again. 
 
 ### Evidence
 [Multi-Tool Final Product](https://cvilleschools.onshape.com/documents/9d8a8a3bf5d4a4f2388b2f03/w/e1927ba5fe9f72df00ac49ed/e/f4e23e5f2c07ef2ca4d4cb8a?renderMode=0&uiState=618d281a9ccafa52b287c9ed)
